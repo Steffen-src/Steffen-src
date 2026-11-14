@@ -15,6 +15,15 @@ I build WordPress plugins, custom web applications, and responsive websites at *
 
 I map out the customer workflow, agree on the scope, and build an interface around the actions users need to take. I check form behaviour, responsive layouts, and the agreed features before handover.
 
-**Stack:** JavaScript, PHP, WordPress, Python, HTML, CSS, and SQLite.
+## Technologies
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | JavaScript, HTML5, CSS3 |
+| Backend | Node.js, PHP, Python |
+| WordPress | WordPress, WooCommerce, custom plugins |
+| Data | SQLite |
+| Development | Git, GitHub |
 
 [BAUVERIS website](https://bauveris.de/en/) · [Discuss a project](https://bauveris.de/en/contact/)
+
