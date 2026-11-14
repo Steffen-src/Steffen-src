@@ -6,10 +6,13 @@ I build WordPress plugins, custom web applications, and responsive websites at *
 
 | Project | What I built |
 | --- | --- |
-| **TransferCalc** | A WordPress plugin for route-based fare calculations and ride enquiries. It combines Google Maps routes with configurable pricing rules. [View TransferCalc](https://bauveris.de/transfercalc/) |
-| **BAUVERIS Flow** | An enquiry-to-order application with a backend, SQLite storage, client accounts, quote revisions, and PDF export. [View BAUVERIS Flow](https://bauveris.de/en/projects/software/bauveris-flow/) |
-| **ORBIT Workspace** | A browser-local CRM workspace with dashboards, project and task views, and a client portal interface. [View ORBIT](https://bauveris.de/en/projects/software/orbit/) |
-| **Stud & Stack** | A parts storefront with product filters, an interactive 3D builder, a parts list, and a cart. [View Stud & Stack](https://bauveris.de/en/projects/shops/#stud-stack) |
+| **[The Good Shelf](https://github.com/Steffen-src/the-good-shelf)** | Bilingual retail storefront with catalogue search, filters, cart and checkout, an Advent tree and seasonal rewards. JavaScript, HTML and CSS. |
+| **[Stud & Stack](https://github.com/Steffen-src/stud-and-stack)** | A parts storefront with an interactive Three.js building studio, placement rules, parts lists and a WordPress package. |
+| **[TransferCalc](https://github.com/Steffen-src/transfercalc)** | A WordPress plugin combining fixed-route and distance-based transfer fares, vehicle selection, enquiries and administration. PHP and JavaScript. |
+| **[Funky Matcha](https://github.com/Steffen-src/funky-matcha)** | Bilingual beverage website with a custom mix builder, animated photo wall and browser-based checkout flow. |
+| **BAUVERIS Flow** | An enquiry-to-order application with a backend, SQLite storage, client accounts, quote revisions and PDF export. [Product overview](https://bauveris.de/en/projects/software/bauveris-flow/) |
+| **ORBIT Workspace** | A browser-local CRM workspace with dashboards, project and task views, and a client portal interface. [Product overview](https://bauveris.de/en/projects/software/orbit/) |
+
 
 ## How I work
 
